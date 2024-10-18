@@ -13,4 +13,4 @@ Use the provided environment.yml file to create a new environment:
 
 3. Run the Code  
 Now, you can run the code:  
-	`python script_sample.py`
+	`python3 script_sample.py`
