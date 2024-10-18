@@ -1,5 +1,5 @@
 # new_env
-New Enviroment in Ubuntu
+New Enviroment in Ubuntu  
 ##Instructions
 1. Clone the Repository  
 Clone this repository to your local machine:  
